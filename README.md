@@ -23,8 +23,8 @@
 
 | Project              | Description                                                                           |
 |---------------------|---------------------------------------------------------------------------------------|
-| 🌦️ [Weather App](https://github.com/codebyMehreen/weather-app) | Get real-time weather using OpenWeatherMap API |
-| 🌈 [Mehreen’s Weather App](https://github.com/codebyMehreen/Mehreen-s-weather-app) | Personal take on weather updates with sleek UI |
+
+|  🌦️[Mehreen’s Weather App](https://github.com/codebyMehreen/Mehreen-s-weather-app) | Personal take on weather updates with sleek UI |
 | ✅ [Todo List App](https://github.com/codebyMehreen/Todo-list-app) | Command-line task tracker built with Python |
 | 🖥️ [Desktop Tutorial](https://github.com/codebyMehreen/desktop-tutorial) | Beginner guide to desktop workflows |
 | 🌐 [Portfolio Site](https://github.com/codebyMehreen/portfolio-site) | My main showcase of skills and achievements |
